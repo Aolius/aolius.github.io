@@ -17,42 +17,49 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hello, I am Ao Liu (刘傲， リュウ　アオ), a final-year Ph.D. student at Tokyo Institute of Technology.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes natural language generation, semi-supervised learning and pretrained language models. 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.11*: &nbsp;🎉🎉 Finished my internship at IBM Research Tokyo. 
+- *2022.10*: &nbsp;🎉🎉 A long paper accepted at EMNLP 2022.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.09 - 2023.09*, doctoral student in the Department of Computer Science of Tokyo Institute of Technology, advised by Prof. Naoaki Okazaki.
+- *2017.09 - 2020.10*, master student in the School of Computer Science and Engineering of UESTC, advised by Prof. Zenglin Xu.
+- *2013.09 - 2017.06*, undergraduate student in the School of Information and Communication Engineering of University of Electronic Science and Technology of China (UESTC), advised by Prof. Zenglin Xu.
+
+# 💼 Internships
+- *2022.08 - 2022.11*, IBM Research Tokyo, advised by Dr. Yang Zhao.
+- *2021.11 - 2022.06*, Microsoft Research Asia, advised by Haoyu Dong.
+
+# 📝 Preprints
+- Improving Logical-level Natural Language Generation with Topic-conditioned Data Augmentation and Logical Form Generation. [\[paper\]](https://arxiv.org/abs/2112.06240). **Ao Liu**, Congjian Luo, Naoaki Okazaki.
+-  Towards Effective Multi-Task Interaction for Entity-Relation Extraction: A Unified Framework with Selection Recurrent Network. [\[paper\]](https://arxiv.org/abs/2202.07281). An Wang, **Yidong Wang**, Hieu Hanh Le and Haruo Yokota.
+
+# 📝 Publications 
+- PLOG: Table-to-Logic Pretraining for Logical Table-to-Text Generation. [\[paper\]](https://arxiv.org/abs/2205.12697); [\[code\]](https://github.com/microsoft/PLOG). **Ao Liu**, Haoyu Dong, Naoaki Okazaki, Shi Han, Dongmei Zhang. Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2022**).
+- Exploiting Unlabeled Data for Target-Oriented Opinion Words Extraction. [\[paper\]](https://arxiv.org/abs/2208.08280); [\[code\]](https://github.com/TOWESSL/TOWESSL). Yidong Wang, Hao Wu, **Ao Liu**, Wenxin Hou, Zhen Wu, Jindong Wang, Takahiro Shinozaki, Manabu Okumura, Yue Zhang. International Conference on Computational Linguistics 2022 (**COLING 2022**).
+- A Unified Weight Initialization Paradigm for Tensorial Convolutional Neural Networks. [\[paper\]](https://arxiv.org/abs/2205.15307). Yu Pan, Zeyong Su, **Ao Liu**, Wang J Q, Nannan Li, Zenglin Xu. Thirty-ninth International Conference on Machine Learning (**ICML 2022**).
+- Table Pretraining: A Survey on Model Architectures, Pretraining Objectives, and Downstream Tasks. [\[paper\]](Haoyu Dong, Zhoujun Cheng, Xinyi He, Mengyu Zhou, Anda Zhou, Fan Zhou, **Ao Liu**, Shi Han and Dongmei Zhang. The 31st International Joint Conference on Artificial Intelligence. (**IJCAI-ECAI 2022**, Survey Track).
+- Semi-Supervised Formality Style Transfer with Consistency Training [\[paper\]](https://arxiv.org/abs/2203.13620); [\[code\]](https://github.com/aolius/semi-fst). **Ao Liu**, An Wang, Naoaki Okazaki. Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (**ACL 2022**).
+- Multi-Level Multimodal Transformer Network for Multi-Modal Recipe Comprehension. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3397271.3401247). **Ao Liu**, Shuai Yuan, Chenbin Zhang, Congjian Luo, Yaqing Liao, Zenglin Xu. Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (short) (**SIGIR 2020**).
+- Improving Contextual Language Models for Response Retrieval in Multi-Turn Conversation. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3397271.3401255). Junyu Lu, Xiancong Ren, Yazhou Ren, **Ao Liu**, Zenglin Xu. Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (short) (**SIGIR 2020**).
+- Read, Attend, and Exclude: Multi-Choice Reading Comprehension by Mimicking Human Reasoning Process. [\[paper\]](https://dl.acm.org/doi/10.1145/3397271.3401326). Chenbin Zhang, Congjian Luo, Junyu Lu, **Ao Liu**, Bing Bai, Kun Bai and Zenglin Xu. Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (short) (**SIGIR 2020**).
+- Machine Reading Comprehension: Matching and Orders. [\[paper\]](https://dl.acm.org/doi/10.1145/3357384.3358139); [\[code\]](https://github.com/Aolius/OrdMatch). **Ao Liu**, Lizhen Qu, Junyu Lu, Chenbin Zhang, Zenglin Xu. Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (short) (**SIGIR 2020**).
+
+
+
+# 🎖 Honors and Awards
+
+- Stars of Tomorrow, Microsoft Research Asia, 2022.
+- Tokyo Tech Advanced Human Resource Development Fellowship for Doctoral Students, Tokyo Institute of Technology, 2021-2023 (Scholarship 1,800,000 JPY/year, Research Funds 300,000 JPY/year)
+- Tsubame Scholarship, Tokyo Institue of Technology, 2020.
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2022.08*, *Table-to-Logic Pretraining for Logical Table-to-Text Generation.* At Knowledge and Information Research Team，National Institute of Advanced Industrial Science and Technology (AIST).
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 📄 Academic Services
+- Reviewer for Conferences: ICML 2022, NeurIPS 2022, EMNLP 2022.
