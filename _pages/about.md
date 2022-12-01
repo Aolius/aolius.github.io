@@ -37,7 +37,7 @@ My research interest includes natural language generation, semi-supervised learn
 
 # 📝 Preprints
 - Improving Logical-level Natural Language Generation with Topic-conditioned Data Augmentation and Logical Form Generation. [\[paper\]](https://arxiv.org/abs/2112.06240). **Ao Liu**, Congjian Luo, Naoaki Okazaki.
--  Towards Effective Multi-Task Interaction for Entity-Relation Extraction: A Unified Framework with Selection Recurrent Network. [\[paper\]](https://arxiv.org/abs/2202.07281). An Wang, **Yidong Wang**, Hieu Hanh Le and Haruo Yokota.
+-  Towards Effective Multi-Task Interaction for Entity-Relation Extraction: A Unified Framework with Selection Recurrent Network. [\[paper\]](https://arxiv.org/abs/2202.07281). An Wang, **Ao Liu**, Hieu Hanh Le and Haruo Yokota.
 
 # 📝 Publications 
 - PLOG: Table-to-Logic Pretraining for Logical Table-to-Text Generation. [\[paper\]](https://arxiv.org/abs/2205.12697); [\[code\]](https://github.com/microsoft/PLOG). **Ao Liu**, Haoyu Dong, Naoaki Okazaki, Shi Han, Dongmei Zhang. Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2022**).
