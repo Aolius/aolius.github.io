@@ -28,7 +28,7 @@ My research interest includes natural language generation, semi-supervised learn
 
 # 📖 Educations
 - *2020.09 - 2023.09*, doctoral student in the Department of Computer Science of Tokyo Institute of Technology, advised by Prof. Naoaki Okazaki.
-- *2017.09 - 2020.10*, master student in the School of Computer Science and Engineering of UESTC, advised by Prof. Zenglin Xu.
+- *2017.09 - 2020.06*, master student in the School of Computer Science and Engineering of UESTC, advised by Prof. Zenglin Xu.
 - *2013.09 - 2017.06*, undergraduate student in the School of Information and Communication Engineering of University of Electronic Science and Technology of China (UESTC), advised by Prof. Zenglin Xu.
 - *2015.09 - 2016.08*, exchange student in the JUSST program of the University of Electro-Communications, advised by Prof. Hisashi Koga.
 
