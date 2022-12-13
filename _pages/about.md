@@ -60,7 +60,7 @@ My research interest includes natural language generation, semi-supervised learn
 - Tsubame Scholarship, Tokyo Institue of Technology, 2020.
 - SIGIR Student Travel Grants: SIGIR2020, CIKM2019.
 
-# 💬 Talks
+# 💬 Invited Talks
 - *2022.08*, *Table-to-Logic Pretraining for Logical Table-to-Text Generation.* Invited talk at Knowledge and Information Research Team，National Institute of Advanced Industrial Science and Technology (AIST).
 
 # 📄 Academic Services
