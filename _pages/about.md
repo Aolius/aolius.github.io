@@ -58,9 +58,10 @@ My research interest includes natural language generation, semi-supervised learn
 - Stars of Tomorrow, Microsoft Research Asia, 2022.
 - Tokyo Tech Advanced Human Resource Development Fellowship for Doctoral Students, Tokyo Institute of Technology, 2021-2023 (Scholarship 1,800,000 JPY/year, Research Funds 300,000 JPY/year)
 - Tsubame Scholarship, Tokyo Institue of Technology, 2020.
+- SIGIR Student Travel Grants: SIGIR2020, CIKM2019.
 
-# 💬 Invited Talks
-- *2022.08*, *Table-to-Logic Pretraining for Logical Table-to-Text Generation.* At Knowledge and Information Research Team，National Institute of Advanced Industrial Science and Technology (AIST).
+# 💬 Talks
+- *2022.08*, *Table-to-Logic Pretraining for Logical Table-to-Text Generation.* Invited talk at Knowledge and Information Research Team，National Institute of Advanced Industrial Science and Technology (AIST).
 
 # 📄 Academic Services
 - Reviewer for Conferences: ICML 2022, NeurIPS 2022, EMNLP 2022.
