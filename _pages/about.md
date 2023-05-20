@@ -23,6 +23,7 @@ My research interest includes natural language generation, semi-supervised learn
 
 
 # 🔥 News
+- *2023.05*: &nbsp;🎉🎉 A paper accepted at *SEM 2023.
 - *2022.12*: &nbsp;🎉🎉 A paper accepted at Journal of Information Processing.
 - *2022.11*: &nbsp;🎉🎉 Finished my internship at IBM Research Tokyo. 
 - *2022.10*: &nbsp;🎉🎉 A long paper accepted at EMNLP 2022.
@@ -40,8 +41,9 @@ My research interest includes natural language generation, semi-supervised learn
 # 📝 Preprints
 -  Towards Effective Multi-Task Interaction for Entity-Relation Extraction: A Unified Framework with Selection Recurrent Network. [\[paper\]](https://arxiv.org/abs/2202.07281). An Wang, **Ao Liu**, Hieu Hanh Le and Haruo Yokota.
 
-# 📝 Publications 
-- Improving Logical-level Natural Language Generation with Topic-conditioned Data Augmentation and Logical Form Generation. **Ao Liu**, Congjian Luo, Naoaki Okazaki. Journal of Information Processing, 2023.
+# 📝 Publications
+- Generative Data Augmentation for Aspect Sentiment Quad Prediction. An Wang, Junfeng Jiang, Youmi Ma, **Ao Liu**, and Naoaki Okazaki.  In Proceedings of *SEM 2023: The 12th Joint Conference on Lexical and Computational Semantics (StarSEM), pages (to appear), Toronto, Canada, July 2023.
+- Improving Logical-level Natural Language Generation with Topic-conditioned Data Augmentation and Logical Form Generation. [\[paper\]](https://www.jstage.jst.go.jp/article/ipsjjip/31/0/31_332/_article/-char/ja/). **Ao Liu**, Congjian Luo, Naoaki Okazaki. Journal of Information Processing, May 2023.
 - PLOG: Table-to-Logic Pretraining for Logical Table-to-Text Generation. [\[paper\]](https://arxiv.org/abs/2205.12697); [\[code\]](https://github.com/microsoft/PLOG). **Ao Liu**, Haoyu Dong, Naoaki Okazaki, Shi Han, Dongmei Zhang. Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2022**).
 - Exploiting Unlabeled Data for Target-Oriented Opinion Words Extraction. [\[paper\]](https://arxiv.org/abs/2208.08280); [\[code\]](https://github.com/TOWESSL/TOWESSL). Yidong Wang, Hao Wu, **Ao Liu**, Wenxin Hou, Zhen Wu, Jindong Wang, Takahiro Shinozaki, Manabu Okumura, Yue Zhang. International Conference on Computational Linguistics 2022 (**COLING 2022**).
 - A Unified Weight Initialization Paradigm for Tensorial Convolutional Neural Networks. [\[paper\]](https://arxiv.org/abs/2205.15307). Yu Pan, Zeyong Su, **Ao Liu**, Wang J Q, Nannan Li, Zenglin Xu. Thirty-ninth International Conference on Machine Learning (**ICML 2022**).
